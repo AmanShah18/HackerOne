@@ -3,3 +3,7 @@ git add .
 git commit -m "Initial Commit"
 git status
 git remote add origin <ssh url of git>
+git push origin master
+To add new thing
+git commit -m "<what you are changing>"
+git push origin master
